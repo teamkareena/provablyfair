@@ -34,4 +34,4 @@ Open you favourite browser on [localhost:3000](http://localhost:3000/).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/teamkareena/provablyfair/blob/master/LICENSE) file for details
