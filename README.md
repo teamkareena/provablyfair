@@ -8,8 +8,7 @@ A provably fair algorithm allows users to check and analyze the legitimacy of ev
 
 For more information about the techincal details of the implementation check out this article
 
-[Provably fair system in javascript - What is and how to build a provably fair system in javascript] (https://discord.gg/mSMgaPC)
-refer to #provably-fair channel
+[Provably fair system in javascript - What is and how to build a provably fair system in javascript](https://discord.gg/mSMgaPC)
 
 ## Getting Started
 
