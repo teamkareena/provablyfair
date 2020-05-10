@@ -18,7 +18,7 @@ Nodejs 8+ installed
 
 ### Installation
 
-[Clone](https://git-scm.com/docs/git-clone) this repo
+[Clone](https://github.com/teamkareena/provablyfair.git) this repo
 
 ```
 $ npm install
